@@ -1,0 +1,16 @@
+file,maxflow,runtime
+bp_min50_max100.txt,1465.0,33.3
+bp_m50_n50.txt,6499.0,2985.3
+bp_m20_n20.txt,2490.0,10.2
+bp_m30_n30.txt,3760.0,141.5
+bp_m40_n40.txt,4892.0,548.6
+bp_p1_m10_n10.txt,1307.0,0.9
+bp_min100_max150.txt,2388.0,10.1
+bp_p1_m40_n40.txt,5323.0,1680.1
+bp_p1_m30_n30.txt,3898.0,501.1
+bp_m10_n10.txt,1055.0,0.3
+bp_p1_m20_n20.txt,2356.0,35.3
+bp_p1_m50_n50.txt,5915.0,4454.0
+bp_min25_max50.txt,723.0,7.6
+bp_min0_max25.txt,220.0,2.3
+bp_min150_max200.txt,3433.0,14.8
